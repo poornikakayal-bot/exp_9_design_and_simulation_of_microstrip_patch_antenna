@@ -120,7 +120,7 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Observations
 
-*| S.No | Frequency (GHz) |  S11 (dB) |     VSWR | Gain (dBi) |
+| S.No | Frequency (GHz) |  S11 (dB) |     VSWR | Gain (dBi) |
 | ---: | --------------: | --------: | -------: | ---------: |
 |    1 |            2.20 |      -8.5 |     2.20 |        5.1 |
 |    2 |            2.30 |     -13.8 |     1.52 |        5.7 |
